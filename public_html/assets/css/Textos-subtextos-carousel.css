@@ -1,0 +1,29 @@
+
+@media  (min-width: 768px){
+
+    .headerP{
+    display: none;
+    }
+}
+
+@media  (max-width: 767px){
+    .carouselG{
+        display:  none; 
+        } 
+    
+}
+
+
+.carousel-caption h3{
+    color: black;
+    font-size: 1em;
+    text-align: left; 
+    
+}
+
+.TextoPrincipalBanner{
+    top: 0;
+    left:0; 
+    margin-top: 50px;
+    
+}

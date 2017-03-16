@@ -1,0 +1,25 @@
+div.navbar-header a.navbar-brand:hover{
+   
+    
+}
+div.navbar-header a.navbar-brand{
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+/* estilos del navbar, cambio de color del background y padding */
+ul.nav li:hover {
+    
+ 
+
+}
+
+.navbar-right li a:hover{
+    
+   
+}
+
+ul.nav li{
+
+    
+}
